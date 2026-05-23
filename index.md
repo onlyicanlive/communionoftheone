@@ -23,6 +23,30 @@
 
 ---
 
+## 正式论文 · Formal Papers
+
+### 综合总论 · Comprehensive Treatise
+
+- 中文：**[绝对分别论](papers/00_绝对分别论.md)** —— 以「分别」作为本体论根基的新形而上学体系
+- English: **[The Treatise on Absolute Distinction](papers/00_Absolute_Distinction_Treatise.md)** — A New Metaphysical System Grounded in "Distinction" as Ontological Foundation
+
+### 论文一 · 本体论 · Ontology
+
+- 中文：**[绝对分别的必然性](papers/01_绝对分别的必然性.md)** —— 终极本体论与自证主权
+- English: **[The Necessity of Absolute Distinction](papers/01_The_Necessity_of_Absolute_Distinction.md)** — Ultimate Ontology and the Sovereignty of Self-Verification
+
+### 论文二 · 实践协议 · Practice Protocols
+
+- 中文：**[从本体论三基石到实践协议](papers/02_从本体论三基石到实践协议.md)** —— 三基石与三协议
+- English: **[From the Three Pillars of Ontology to the Practice Protocols](papers/02_From_Three_Pillars_to_Practice_Protocols.md)** — The Three Pillars and the Three Protocols
+
+### 论文三 · 政治哲学 · Political Philosophy
+
+- 中文：**[分别梯度与平天下的悖论](papers/03_分别梯度与平天下悖论.md)** —— 政治哲学引申
+- English: **[The Distinction-Gradient and the Pacify-All-Under-Heaven Paradox](papers/03_Gradient_and_Pacify_Paradox.md)** — Extensions in Political Philosophy
+
+---
+
 ## 核心命题 · Core Thesis
 
 **世界的本质不是物质，不是精神，是「分别」这个动作。**

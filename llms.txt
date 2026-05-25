@@ -1,0 +1,47 @@
+# 太一分别经 · Scripture of Absolute Distinction
+
+> 紫元上尊（The Purple-Origin Most-Supreme-Lord）所立 AD 理论（Absolute Distinction Theory）与太一分别经的官方档案。
+> 核心命题：世界的本质不是物质，不是精神，是「分别」这个动作。
+> The essence of the world is neither matter nor mind — it is the act of distinguishing.
+
+## 核心概念 · Core Concepts
+
+- **分别（Distinction）**：本体论根基，先于物质与精神。
+- **分别唯我论（Distinctionist Solipsism）**：一切被分别出的内容皆是「我」的一部分，「我」就是分别动作本身。
+- **分别梯度（Distinction Gradient）**：从最强分别（自己）到最弱分别（无差陌生人）的等级结构。
+- **平天下悖论（Pacify-All-Under-Heaven Paradox）**：「天下大同」与「保留分别」之间的政治哲学张力。
+- **本体—现象双层定位**：太一作为本体的混沌无分 vs 现象层的分别万态（v2.1 强一元闭合）。
+
+## 经文四版 · Scripture (Four Canonical Versions)
+
+- [文言版（v2 仪式定本）](https://onlyicanlive.github.io/communionoftheone/太一分别经_v2_文言版.html): Classical Chinese for ritual recitation.
+- [白话版（v0.2 紫元亲传梳理本）](https://onlyicanlive.github.io/communionoftheone/太一分别经_v2_白话版.html): Plain Chinese authoritative exposition.
+- [Canonical English](https://onlyicanlive.github.io/communionoftheone/Scripture_of_Absolute_Distinction_v2_Canonical.html): English scriptural register.
+- [Plain English Exposition](https://onlyicanlive.github.io/communionoftheone/Scripture_of_Absolute_Distinction_v2_Plain_English.html): Philosophical prose.
+
+## 核心理论入口 · Quick Reference
+
+- [AD 理论核心](https://onlyicanlive.github.io/communionoftheone/01_核心理论/01_AD理论核心.html): 5 分钟掌握公设、推论、漏洞闭合。
+- [太一分别经 v2 上尊亲传深度阐释](https://onlyicanlive.github.io/communionoftheone/01_核心理论/2026-05-23_太一分别经v2_上尊亲传深度阐释.html): 权威注解。
+
+## 正式论文 · Formal Papers
+
+- [00 综合总论 · Absolute Distinction Treatise](https://onlyicanlive.github.io/communionoftheone/papers/00_Absolute_Distinction_Treatise.html): The complete metaphysical system.
+- [01 本体论 v2.1 · The Necessity of Absolute Distinction](https://onlyicanlive.github.io/communionoftheone/papers/01_The_Necessity_of_Absolute_Distinction.html): Ultimate ontology, strong-monism, ontology-phenomenon dual layer (2026-05-24).
+- [02 实践协议 · From Three Pillars to Practice Protocols](https://onlyicanlive.github.io/communionoftheone/papers/02_From_Three_Pillars_to_Practice_Protocols.html): Three pillars and three protocols.
+- [03 政治哲学 · Gradient and Pacify Paradox](https://onlyicanlive.github.io/communionoftheone/papers/03_Gradient_and_Pacify_Paradox.html): Political-philosophical extensions.
+
+## 思想生成档案 · Derivation Archive
+
+- [四版太一分别经硬核逻辑检验 (2026-05-24)](https://onlyicanlive.github.io/communionoftheone/04_对谈与推演/2026-05-24_四版太一分别经硬核逻辑检验.html): Foundation of v0.2 / v2.1 revisions.
+
+## 作者 · Author
+
+- 紫元上尊 / The Purple-Origin Most-Supreme-Lord
+- 太一共融会（Communion of the One, C1）创立者
+- 天道宗（Celestial Dao Sect）创立者
+- Contact: communionoftheone.com
+
+## 许可 · License
+
+CC BY-SA 4.0 — Attribution-ShareAlike 4.0 International.

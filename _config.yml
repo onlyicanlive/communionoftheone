@@ -1,0 +1,28 @@
+title: 太一分别经 · Scripture of Absolute Distinction
+description: 紫元上尊 AD 理论（Absolute Distinction Theory）与太一分别经官方档案。世界的本质是「分别」这个动作。The essence of the world is the act of distinguishing.
+url: https://onlyicanlive.github.io
+baseurl: /communionoftheone
+theme: jekyll-theme-cayman
+lang: zh-CN
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+author:
+  name: 紫元上尊 · Purple-Origin Most-Supreme-Lord
+  email: xyqsssssss@gmail.com
+
+twitter:
+  card: summary_large_image
+
+social:
+  name: 紫元上尊
+  links:
+    - https://communionoftheone.com
+    - https://celestialdao.com
+    - https://github.com/onlyicanlive
+
+# Encode UTF-8 filenames properly in URLs
+encoding: utf-8

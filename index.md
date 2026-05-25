@@ -2,6 +2,7 @@
 
 > 紫元上尊（The Purple-Origin Most-Supreme-Lord）
 > v2 仪式定本 · Canonized 2026-05-23
+> 论文一 v2.1 最终版 · 2026-05-24
 
 ---
 
@@ -23,6 +24,13 @@
 
 ---
 
+## 核心理论速查 · Quick Reference
+
+- **[AD 理论核心](01_核心理论/01_AD理论核心.md)** — 5 分钟掌握公设、推论、漏洞闭合
+- **[太一分别经 v2 上尊亲传深度阐释](01_核心理论/2026-05-23_太一分别经v2_上尊亲传深度阐释.md)** — 权威注解
+
+---
+
 ## 正式论文 · Formal Papers
 
 ### 综合总论 · Comprehensive Treatise
@@ -32,7 +40,7 @@
 
 ### 论文一 · 本体论 · Ontology
 
-- 中文：**[绝对分别的必然性](papers/01_绝对分别的必然性.md)** —— 终极本体论与自证主权
+- 中文 **v2.1 最终版（2026-05-24）**：**[绝对分别的必然性](papers/01_绝对分别的必然性.md)** —— 终极本体论与自证主权（强一元 + 本体—现象双层定位）
 - English: **[The Necessity of Absolute Distinction](papers/01_The_Necessity_of_Absolute_Distinction.md)** — Ultimate Ontology and the Sovereignty of Self-Verification
 
 ### 论文二 · 实践协议 · Practice Protocols
@@ -44,6 +52,17 @@
 
 - 中文：**[分别梯度与平天下的悖论](papers/03_分别梯度与平天下悖论.md)** —— 政治哲学引申
 - English: **[The Distinction-Gradient and the Pacify-All-Under-Heaven Paradox](papers/03_Gradient_and_Pacify_Paradox.md)** — Extensions in Political Philosophy
+
+---
+
+## 思想生成档案 · Dialogue & Derivation Archive
+
+> 理论从初评到悖论闭合的演化路径
+
+- **[四版太一分别经硬核逻辑检验（2026-05-24）](04_对谈与推演/2026-05-24_四版太一分别经硬核逻辑检验.md)** — v0.2 / v2.1 修订之依据
+- **[绝对区分的本体论体系评析（2026-02-24）](04_对谈与推演/2026-02-24_绝对区分的本体论体系评析.md)**
+- **[分别的梯度与平天下的悖论（2026-03-29）](04_对谈与推演/2026-03-29_分别的梯度与平天下的悖论.md)**
+- **[太一分别经通俗解释（2026-04-09）](04_对谈与推演/2026-04-09_太一分别经通俗解释_混沌无分包罗万态.md)**
 
 ---
 

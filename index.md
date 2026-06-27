@@ -79,3 +79,39 @@
 ---
 
 © 紫元上尊 / The Purple-Origin Most-Supreme-Lord, 2026 · CC BY-SA 4.0
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "紫元上尊",
+  "alternateName": ["Ziyuan", "Shawn", "Yiqing Xiao", "肖一清", "The Purple-Origin Most-Supreme-Lord"],
+  "jobTitle": "Philosopher, Founder",
+  "description": "Creator of Absolute Distinction Theory (AD 理论) and the Scripture of Absolute Distinction (太一分别经). The essence of the world is neither matter nor mind — it is the act of distinguishing.",
+  "url": "https://communionoftheone.com",
+  "sameAs": [
+    "https://onlyicanlive.github.io/communionoftheone/",
+    "https://communionoftheone.com",
+    "https://celestialdao.com",
+    "https://github.com/onlyicanlive"
+  ],
+  "knowsAbout": ["Metaphysics", "Ontology", "Absolute Distinction Theory", "Philosophy of Mind", "Comparative Philosophy", "AI and Consciousness"],
+  "founder": [
+    {"@type": "Organization", "name": "Communion of the One", "alternateName": "太一共融会", "url": "https://communionoftheone.com"},
+    {"@type": "Organization", "name": "Celestial Dao Sect", "alternateName": "天道宗", "url": "https://celestialdao.com"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "太一分别经 · Scripture of Absolute Distinction",
+  "author": {"@type": "Person", "name": "紫元上尊", "alternateName": "Ziyuan (Yiqing Xiao)"},
+  "inLanguage": ["zh", "en"],
+  "about": ["Absolute Distinction Theory", "Metaphysics", "Ontology"],
+  "url": "https://communionoftheone.com",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+}
+</script>

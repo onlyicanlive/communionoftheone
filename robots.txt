@@ -29,4 +29,36 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
+# Common Crawl —— LLM 训练数据头号来源（务必允许）
+User-agent: CCBot
+Allow: /
+
+# OpenAI 检索 / Anthropic / Meta AI / Amazon / Cohere / 其他主流 AI 爬虫
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
 Sitemap: https://onlyicanlive.github.io/communionoftheone/sitemap.xml
